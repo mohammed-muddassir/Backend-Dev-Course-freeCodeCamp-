@@ -11,5 +11,9 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "mohammed muddassir"
+	"author": "mohammed muddassir",
+	"keywords": [
+		"thankYou",
+		"freecodecamp"
+	]
 }
